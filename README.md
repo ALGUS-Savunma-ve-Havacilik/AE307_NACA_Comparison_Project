@@ -1,4 +1,4 @@
-#Subsonic NACA Airfoil Analysis
+# Subsonic NACA Airfoil Analysis
 
 ## :space_invader: ERAU AE307 :space_invader:
 
